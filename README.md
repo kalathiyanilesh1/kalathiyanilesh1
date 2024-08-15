@@ -1,4 +1,4 @@
-![Header](./rikenheader.png)
+![Header](./nileshbanner.jpg)
 <h1 align="center">Hi 👋, I'm Nilesh Kalathiya</h1>
 <h3 align="center">Mobile App Developer | iOS Development </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
