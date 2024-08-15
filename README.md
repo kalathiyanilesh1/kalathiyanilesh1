@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Uphabit](https://apps.apple.com/in/app/uphabit-personal-crm/id1335632832)
 
-- 🌱 I’m currently learning ** ARkit Interactions**
+- 🌱 I’m currently learning ** ARKit Interactions**
 
 - 📫 How to reach me **kalathiyanilesh1@gmail.com**
 
