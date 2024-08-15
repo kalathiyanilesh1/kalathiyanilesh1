@@ -7,9 +7,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riken96&label=Profile%20views&color=0e75b6&style=flat" alt="riken96" /> </p>
 
 - 🔭 I’m currently working on [Uphabit](https://apps.apple.com/in/app/uphabit-personal-crm/id1335632832)
-)
 
-- 🌱 I’m currently learning **Unity AR Interactions**
+- 🌱 I’m currently learning ** ARkit Interactions**
 
 - 📫 How to reach me **kalathiyanilesh1@gmail.com**
 
@@ -17,9 +16,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rikensonani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rikensonani" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nilesh-k-7642089a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rikensonani" height="30" width="40" /></a>
 
-<a href="https://instagram.com/riken_sonani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="riken_sonani" height="30" width="40" /></a>
+<a href="https://www.instagram.com/kalathiyanilesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="riken_sonani" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
